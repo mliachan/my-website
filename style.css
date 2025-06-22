@@ -5,9 +5,9 @@
 }
 
 body {
-  font-family: 'Proxima Nova', serif;
+  font-family: 'Lobster', serif;
   background-color: #fefcf6;
-  color: #0c56d4;
+  color: #e614be;
 }
 
 header {
@@ -43,7 +43,7 @@ header {
   text-decoration: none;
   font-weight: bold;
   border-radius: 5px;
-  background-color: #d5ff55;
+  background-color: #9febd4;
   color: #000;
 }
 
@@ -73,7 +73,7 @@ header {
 }
 
 .highlight {
-  color: #d5ff55;
+  color: #ff5583;
 }
 
 /* Tags */
@@ -93,6 +93,6 @@ header {
 }
 
 .pink { background-color: #df70b8; }
-.yellow { background-color: #d5ff55; color: #000; }
+.yellow { background-color: #cb36ff; }
 .green { background-color: #59d9c2; }
-.orange { background-color: #d5773c; }
+.orange { background-color: #f48592; }
