@@ -15,6 +15,11 @@
   color: #ffffff;
 }
 
+.hero {
+  margin-top: 60px;
+}
+
+
 .highlight {
   color: #84A98C; /* soft green for emphasis */
 }
@@ -90,5 +95,18 @@ header {
   background-color: #84A98C;
   color: white;
   font-weight: bold;
+}
+
+.green1 {
+  background-color: #84A98C; /* sage */
+}
+.green2 {
+  background-color: #52796F; /* teal forest */
+}
+.green3 {
+  background-color: #354F52; /* deep slate green */
+}
+.green4 {
+  background-color: #2F3E46; /* dark blue-green */
 }
 
