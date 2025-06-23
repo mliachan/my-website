@@ -1,3 +1,8 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
 .overlay {
   background: linear-gradient(to bottom, #52796F, #2F3E46); /* earthy gradient */
   padding: 60px 30px;
