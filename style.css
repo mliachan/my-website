@@ -5,9 +5,13 @@
 }
 
 body {
-  font-family: 'Georgia', serif;
-  background-color: #f8f4e6;
-  color: #e614be;
+  font-family: 'Lora', serif;
+}
+body {
+  background-color: #CAD2C5;
+}
+h1, h2 {
+  font-family: 'Playfair Display', serif;
 }
 
 header {
@@ -43,8 +47,8 @@ header {
   text-decoration: none;
   font-weight: bold;
   border-radius: 5px;
-  background-color: #457264;
-  color: #000;
+  background-color: #84A98C;
+  color: #fff;
 }
 
 /* HERO SECTION */
@@ -59,7 +63,8 @@ header {
 }
 
 .overlay {
-  background: linear-gradient(to bottom, rgba(0, 51, 34, 0.8), rgba(0, 34, 17, 0.95));
+  background: linear-gradient(to bottom, rgba(47, 62, 70, 0.9), rgba(82, 121, 111, 0.9));
+}
   padding: 40px;
   max-width: 800px;
   text-align: center;
@@ -91,8 +96,8 @@ header {
   font-size: 0.9em;
   color: white;
 }
+.pink   { background-color: #84A98C; color: #fff; }
+.yellow { background-color: #CAD2C5; color: #000; }
+.green  { background-color: #52796F; color: #fff; }
+.orange { background-color: #354F52; color: #fff; }
 
-.pink { background-color: #df70b8; }
-.yellow { background-color: #cb36ff; }
-.green { background-color: #59d9c2; }
-.orange { background-color: #f48592; }
