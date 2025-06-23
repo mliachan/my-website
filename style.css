@@ -36,16 +36,6 @@ html, body {
   gap: 15px;
   margin-top: 20px;
 }
-
-.tag {
-  background-color: #84A98C;
-  padding: 10px 20px;
-  border-radius: 999px;
-  font-weight: bold;
-  font-size: 1em;
-  color: #fff;
-  box-shadow: 0 3px 6px rgba(0,0,0,0.1);
-  transition: transform 0.2s ease;
 }
 
 .tag:hover {
